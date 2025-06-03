@@ -215,6 +215,7 @@
     <Compile Include="Models\OutReferencia.cs" />
     <Compile Include="Models\Out_Inmueble.cs" />
     <Compile Include="Models\Out_NotariosISR.cs" />
+    <Compile Include="Models\pruebas.cs" />
     <Compile Include="Models\P_Enajentantes.cs" />
     <Compile Include="Models\UserConection.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

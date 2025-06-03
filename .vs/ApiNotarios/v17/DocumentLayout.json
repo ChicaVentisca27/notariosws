@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\",
+  "WorkspaceRootPath": "C:\\github\\Apis\\notariosws\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|c:\\users\\usrdell\\source\\repos\\apinotarios\\apinotarios\\controllers\\notarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|c:\\github\\apis\\notariosws\\apinotarios\\models\\pruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|solutionrelative:apinotarios\\models\\pruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|c:\\github\\apis\\notariosws\\apinotarios\\controllers\\notarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|solutionrelative:apinotarios\\controllers\\notarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|C:\\Users\\usrDell\\source\\repos\\APINotarios\\apinotarios\\businesslogic\\implementation\\notariosimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|C:\\github\\Apis\\notariosws\\apinotarios\\businesslogic\\implementation\\notariosimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|solutionrelative:apinotarios\\businesslogic\\implementation\\notariosimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|C:\\Users\\usrDell\\source\\repos\\APINotarios\\apinotarios\\businesslogic\\interface\\inotarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|C:\\github\\Apis\\notariosws\\apinotarios\\businesslogic\\interface\\inotarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|solutionrelative:apinotarios\\businesslogic\\interface\\inotarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|c:\\users\\usrdell\\source\\repos\\apinotarios\\apinotarios\\dao\\daonotarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|C:\\github\\Apis\\notariosws\\apinotarios\\dao\\daonotarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|solutionrelative:apinotarios\\dao\\daonotarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|C:\\Users\\usrDell\\source\\repos\\APINotarios\\apinotarios\\dao\\procedimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|C:\\github\\Apis\\notariosws\\apinotarios\\dao\\procedimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{071E1381-8E66-494E-A258-B88CD2632AFE}|APINotarios\\APINotarios.csproj|solutionrelative:apinotarios\\dao\\procedimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,6 +38,10 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
@@ -46,68 +54,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DAONotarios.cs",
-              "DocumentMoniker": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\DAO\\DAONotarios.cs",
-              "RelativeDocumentMoniker": "APINotarios\\DAO\\DAONotarios.cs",
-              "ToolTip": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\DAO\\DAONotarios.cs",
-              "RelativeToolTip": "APINotarios\\DAO\\DAONotarios.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAcwE4AAABHAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "pruebas.cs",
+              "DocumentMoniker": "C:\\github\\Apis\\notariosws\\APINotarios\\Models\\pruebas.cs",
+              "RelativeDocumentMoniker": "APINotarios\\Models\\pruebas.cs",
+              "ToolTip": "C:\\github\\Apis\\notariosws\\APINotarios\\Models\\pruebas.cs",
+              "RelativeToolTip": "APINotarios\\Models\\pruebas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T19:12:43.626Z",
+              "WhenOpened": "2025-06-03T21:31:48.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "DAONotarios.cs",
+              "DocumentMoniker": "C:\\github\\Apis\\notariosws\\APINotarios\\DAO\\DAONotarios.cs",
+              "RelativeDocumentMoniker": "APINotarios\\DAO\\DAONotarios.cs",
+              "ToolTip": "C:\\github\\Apis\\notariosws\\APINotarios\\DAO\\DAONotarios.cs",
+              "RelativeToolTip": "APINotarios\\DAO\\DAONotarios.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwE4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:12:43.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NotariosController.cs",
-              "DocumentMoniker": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\Controllers\\NotariosController.cs",
+              "DocumentMoniker": "C:\\github\\Apis\\notariosws\\APINotarios\\Controllers\\NotariosController.cs",
               "RelativeDocumentMoniker": "APINotarios\\Controllers\\NotariosController.cs",
-              "ToolTip": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\Controllers\\NotariosController.cs",
+              "ToolTip": "C:\\github\\Apis\\notariosws\\APINotarios\\Controllers\\NotariosController.cs",
               "RelativeToolTip": "APINotarios\\Controllers\\NotariosController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwF0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T17:52:01.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NotariosImp.cs",
-              "DocumentMoniker": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\BusinessLogic\\Implementation\\NotariosImp.cs",
+              "DocumentMoniker": "C:\\github\\Apis\\notariosws\\APINotarios\\BusinessLogic\\Implementation\\NotariosImp.cs",
               "RelativeDocumentMoniker": "APINotarios\\BusinessLogic\\Implementation\\NotariosImp.cs",
-              "ToolTip": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\BusinessLogic\\Implementation\\NotariosImp.cs",
+              "ToolTip": "C:\\github\\Apis\\notariosws\\APINotarios\\BusinessLogic\\Implementation\\NotariosImp.cs",
               "RelativeToolTip": "APINotarios\\BusinessLogic\\Implementation\\NotariosImp.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAowCcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:31:44.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T17:31:44.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "INotarios.cs",
-              "DocumentMoniker": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\BusinessLogic\\Interface\\INotarios.cs",
+              "DocumentMoniker": "C:\\github\\Apis\\notariosws\\APINotarios\\BusinessLogic\\Interface\\INotarios.cs",
               "RelativeDocumentMoniker": "APINotarios\\BusinessLogic\\Interface\\INotarios.cs",
-              "ToolTip": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\BusinessLogic\\Interface\\INotarios.cs",
+              "ToolTip": "C:\\github\\Apis\\notariosws\\APINotarios\\BusinessLogic\\Interface\\INotarios.cs",
               "RelativeToolTip": "APINotarios\\BusinessLogic\\Interface\\INotarios.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:57:59.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:57:59.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Procedimientos.cs",
-              "DocumentMoniker": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\DAO\\Procedimientos.cs",
+              "DocumentMoniker": "C:\\github\\Apis\\notariosws\\APINotarios\\DAO\\Procedimientos.cs",
               "RelativeDocumentMoniker": "APINotarios\\DAO\\Procedimientos.cs",
-              "ToolTip": "C:\\Users\\usrDell\\source\\repos\\APINotarios\\APINotarios\\DAO\\Procedimientos.cs",
+              "ToolTip": "C:\\github\\Apis\\notariosws\\APINotarios\\DAO\\Procedimientos.cs",
               "RelativeToolTip": "APINotarios\\DAO\\Procedimientos.cs",
               "ViewState": "AgIAAA4CAAAAAAAAAAAqwG4CAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T23:10:31.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T23:10:31.716Z"
             }
           ]
         },
